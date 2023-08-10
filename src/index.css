@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  color: white;
+  font-family: 'Chakra Petch', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  
+
+  background-image: linear-gradient(to right top, #030315, #0a0920, #0c0f2c, #0b1338, #0c1644, #0b1744, #0b1743, #0a1843, #0a1536, #0b122a, #0a0d1e, #050711);
+
+}
+
+code {
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+button{
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
